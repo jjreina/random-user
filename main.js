@@ -79,7 +79,7 @@ createContentCard(
   "surname",
   "mail",
   "phone",
-  "./assets/user_nt_found.jpg",
+  "./user_nt_found.jpg",
   "city",
   "time"
 );
